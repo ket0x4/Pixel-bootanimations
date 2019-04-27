@@ -10,4 +10,5 @@
 ### Android 6.0 bootanimation:
 - [ ] Add gif here
 
-# Downloads
+# [Downloads](https://github.com/TheDoop/Pixel-bootanimations/releases/tag/v1)
+
