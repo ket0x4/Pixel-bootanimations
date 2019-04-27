@@ -1,0 +1,7 @@
+id=androidmarshmallow
+name=Android Marshmallow Boot Animation
+version=v1.0
+versionCode=1
+author=Doop
+description=Android Marshmallow Boot Animation
+minMagisk=17000
