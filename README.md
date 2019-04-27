@@ -1,0 +1,2 @@
+# Pixel-bootanimations
+Magisk modules
